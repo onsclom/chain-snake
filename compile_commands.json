@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/austinmerrick/Desktop/PlaydateSDK/C_API/Examples/chain-snake",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DTARGET_EXTENSION=1 -DTARGET_SIMULATOR=1 -Dhello_world_EXPORTS -I/Users/austinmerrick/Developer/PlaydateSDK/C_API -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fPIC -Wall -Wstrict-prototypes -Wno-unknown-pragmas -Wdouble-promotion -o CMakeFiles/hello_world.dir/src/main.c.o -c /Users/austinmerrick/Desktop/PlaydateSDK/C_API/Examples/chain-snake/src/main.c",
+  "file": "/Users/austinmerrick/Desktop/PlaydateSDK/C_API/Examples/chain-snake/src/main.c",
+  "output": "CMakeFiles/hello_world.dir/src/main.c.o"
+}
+]
